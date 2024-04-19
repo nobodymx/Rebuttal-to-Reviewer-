@@ -32,3 +32,9 @@ where $\beta>0$ is a hyperparameter.
 We have added this explanation to the revised manuscript. 
 
 [1] Chua, K., Calandra, R., McAllister, R., & Levine, S. (2018). Deep reinforcement learning in a handful of trials using probabilistic dynamics models. Advances in neural information processing systems, 31.
+
+Moreover, we are pleased to let you know that although the experimental results in the paper come from proprietary codes and data, we have decided to open-source the codes of the proposed PE-MRL and the offline simulator as well as the used simulated offline dataset before we have a chance to prepare the camera-ready, in order to support and contribute to the auto-bidding field. 
+
+**The codes and the dataset are available at** <https://anonymous.4open.science/r/AutoBiddingBenchmark-083F/README.md>.
+
+**The added related works are available at** <https://anonymous.4open.science/r/Related-Works-of-the-PE-MRL-FDD1/README.md>.
